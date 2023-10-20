@@ -1,0 +1,15 @@
+{
+  "name": "paco-de-luc-a",
+  "version": "1.0.0",
+  "description": "One of my hobbies is playing the guitar and this api is intended to remember one of the best guitarists that ever existed Paco de Lucía.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d  "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
